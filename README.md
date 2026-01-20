@@ -70,6 +70,6 @@ Designed for:
 
 ### Run via `curl`
 ```bash
-curl -fsSL https://github.com/youstable/Benchmark/blob/main/bench.sh | bash
+curl -fsSL https://raw.githubusercontent.com/youstable/Benchmark/main/bench.sh | bash
 
 
