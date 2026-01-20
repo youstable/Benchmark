@@ -1,7 +1,5 @@
 # 🚀 Enterprise grade linux server testing script 2026 updated with Uplink, Disk, Network, and other hardware health
 
-[![Stars](https://img.shields.io/github/stars/YOUSTABLE_GITHUB_USERNAME/youstable-benchmark?style=for-the-badge)](https://github.com/YOUSTABLE_GITHUB_USERNAME/youstable-benchmark/stargazers)
-[![License](https://img.shields.io/github/license/YOUSTABLE_GITHUB_USERNAME/youstable-benchmark?style=for-the-badge)](LICENSE)
 [![ShellCheck](https://img.shields.io/badge/ShellCheck-Passed-brightgreen?style=for-the-badge&logo=gnu-bash)](https://www.shellcheck.net/)
 [![Bash](https://img.shields.io/badge/Bash-4%2B-blue?style=for-the-badge&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 [![Website](https://img.shields.io/badge/Author-rajeshchauhan.me-purple?style=for-the-badge)](https://rajeshchauhan.me)
@@ -72,4 +70,6 @@ Designed for:
 
 ### Run via `curl`
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUSTABLE_GITHUB_USERNAME/youstable-benchmark/main/youstable-bench.sh | bash
+curl -fsSL https://github.com/youstable/Benchmark/blob/main/bench.sh | bash
+
+
