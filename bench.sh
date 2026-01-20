@@ -210,7 +210,7 @@ print_intro() {
     echo "----------------- A Benchmark Script By RajeshChauhan.me ------------------"
     echo " Intro              : https://rajeshchauhan.me"
     echo " Version            : $(_green v1.0)"
-    echo " Usage              : $(_red "wget -qO- https://rajeshchauhan.me/bench.sh | bash")"
+    echo " Usage              : $(_red "curl -fsSL https://raw.githubusercontent.com/youstable/Benchmark/main/bench.sh | bash")"
 }
 
 # Get System information
